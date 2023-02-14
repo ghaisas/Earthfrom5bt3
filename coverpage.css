@@ -1,0 +1,80 @@
+body{
+	display: block;
+	background-color: ;
+	color: white;
+	margin: 0;
+	font-family: 'Lisbeth', sans-serif;
+}
+
+.coverpage {
+	position: relative;
+	background-color: #000000;
+	height: 100vh;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.coverpageTitleFrame{
+	width: 50%;
+/*	background-color: pink;*/
+	margin-left: 25%;
+	margin-top: 40vh;
+	position: absolute;
+}
+
+.coverpageTitle{
+	position: relative;
+	height: 100%;
+}
+
+.earthDiagram{
+	height: 100%;
+	overflow-y: hidden;
+
+}
+
+.StoryPage{
+	position: relative;
+	background-color: #000000;
+	height: 100vh;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.StoryFrame{
+	width: 60%;
+	height: 70%;
+/*	background-color: pink;*/
+	margin-left: 20%;
+	margin-top: 15vh;
+	position: absolute;
+}
+
+.story{
+	position: relative;
+	height: 100%;
+	/*	margin-left: 2.5%;*/
+}
+
+.endstory{
+	position: relative;
+	height: 80%;
+	margin-top: 10%;
+}
+
+.SectionHeaderPage{
+	position: relative;
+	background-color: #000000;
+	height: 70vh;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.SectionHeaderFrame{
+	width: 60%;
+	height: 70%;
+/*	background-color: pink;*/
+	margin-left: 20%;
+	margin-top: 15vh;
+	position: absolute;
+}
